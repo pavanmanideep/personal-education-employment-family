@@ -1,0 +1,11 @@
+Regarding the next week event, does the below plan sounds good to you?
+Key Note By Microsoft
+Brief Introduction of Power Platform (1.5 Hour) (9:30 AM - 11 AM) - Pavan
+In-a-day Workshop (11.00 AM - 12.30 PM) - Goloknath (Power Automate), Pavan(Power Apps)
+Lunch Break (12.30 PM - 1.30 PM) 
+Continue In-a-day Workshop (1.30 PM - 3:30 PM) Goloknath + Pavan(Copilot Studio + Power BI)
+Agenda Firm up and finalize a single use case for Hackathon based on questionnaire 
+(Tech- Power Apps + Power Pages + Power Automate + Copilot Studio)
+
+As discussed we can use Power Platform In a Day workshops for HandsOn Demo.
+
